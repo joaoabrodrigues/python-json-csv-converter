@@ -1,3 +1,7 @@
+# sudo apt install python3-pip
+# sudo apt install python3-tk
+# pip3 install pandas
+
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
